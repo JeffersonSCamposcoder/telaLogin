@@ -1,0 +1,49 @@
+body {
+    background: rgb(251, 63, 178);
+    background: linear-gradient(106deg, rgba(189, 20, 124, 0.847) 48%, rgba(107, 19, 216, 0.6143499636182599) 82%);
+}
+
+.container {
+    background-color: rgba(255, 255, 255, 0.7);
+    width: 35%;
+    padding: 2.5%;
+    border-radius: 5px;
+    margin-top: 10%;
+    margin-bottom: 17%;
+}
+p {
+    text-align: center;
+    font-size: x-large;
+}
+
+h3 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+h5 {
+    text-align: center;
+    margin-top: 10px;
+}
+
+h5:hover {
+    text-align: center;
+    margin-top: 10px;
+    cursor: pointer;
+    color: blue;
+}
+
+input {
+    padding: 20px;
+    width: 100%;
+    outline: none;
+}
+
+button:hover {
+    background: rgb(107, 19, 216);
+    background: linear-gradient(
+        106deg,
+        rgba(107, 19, 216, 0.6143499636182599) 26%,
+        rgba(251, 63, 178, 0.8468429608171394) 75%
+    );
+}
